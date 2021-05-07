@@ -1,5 +1,5 @@
 
-image:image.c image.h
-	gcc -g image.c -o image -lm -fopenmp
+image:image_pth.c image_pth.h
+	gcc -g image_pth.c -o image_pth -lm -lpthread
 clean:
-	rm -f image output.png
+	rm -f image_pth output.png
