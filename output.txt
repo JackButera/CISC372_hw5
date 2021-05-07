@@ -1,0 +1,9 @@
+Script started on 2021-05-06 20:37:17-04:00
+]0;buteraj@br014:~/CISC372/CISC372_hw5[buteraj@r004 CISC372_hw5]$ ./image pic1.jpg edge
+Took 6 seconds
+]0;buteraj@br014:~/CISC372/CISC372_hw5[buteraj@r004 CISC372_hw5]$ ./image_pth pic1.jpg edge
+Took 5 seconds
+]0;buteraj@br014:~/CISC372/CISC372_hw5[buteraj@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 20:37:52-04:00
